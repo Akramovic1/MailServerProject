@@ -4,9 +4,9 @@ Mail Server Project for Data Structure I course (CSED Faculty of Engineering Ale
 
 # Team members:
 
-## Ahmed Akram Ahmed (18010056)
+## Ahmed Akram Ahmed
 
-## Moaz Nabil (18011824)
+## Moaz Nabil 
 
 # Professor:
 
