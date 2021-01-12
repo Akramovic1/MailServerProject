@@ -1,16 +1,6 @@
 # MailServerProject
-Mail Server Project for Data Structure I course (CSED Faculty of Engineering Alexandria University) 
+Mail Server Project 
 
-
-# Team members:
-
-## Ahmed Akram Ahmed
-
-## Moaz Nabil 
-
-# Professor:
-
-## Dr. Khaled Nagi
 
 ### Description and features
 
